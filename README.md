@@ -1,5 +1,11 @@
 # Documentation - Mermaid
 
+## Version in use
+
+```mermaid
+info
+```
+
 - [Flowcharts](./flowcharts/README.md)
 
 
